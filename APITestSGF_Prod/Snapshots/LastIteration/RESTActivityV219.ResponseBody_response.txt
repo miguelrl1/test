@@ -1,0 +1,6 @@
+{
+	"access_token" : "3bjc7s6eoos6fdrf64oh9i0700qm4ufn5v59cp526n5mibhf920",
+	"token_type" : "bearer",
+	"expires_in" : "1507140013",
+	"refresh_token" : "bg8t2adhhbinq30558lh4082tiv26irakf1d9lvh82diisouq2l"
+}

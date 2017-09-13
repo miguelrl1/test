@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ResourceManifest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>7f303e49-5e56-4e80-9db0-a79c8f4c4e20</ID>
+  <Name>SGF_1st_SOM</Name>
+  <Type>REST</Type>
+  <Version>1</Version>
+  <CreationDate>2017-09-08T17:50:10.5983334-05:00</CreationDate>
+  <UpdateDate>2017-09-08T17:50:10.5983334-05:00</UpdateDate>
+  <LoaderID>SignatureResourceHandler</LoaderID>
+  <MetaDataSignatureFile>af592b0d-8d16-4fd2-900e-54c8ed19c03f.xml</MetaDataSignatureFile>
+  <TestResourceId>af592b0d-8d16-4fd2-900e-54c8ed19c03f</TestResourceId>
+  <RepositoryType>TestRepository</RepositoryType>
+  <SignatureCodonId>HP.ST.RestDesignTime.RestServicesV2</SignatureCodonId>
+  <SignatureAddinVersion>12.53.2810.0</SignatureAddinVersion>
+  <Properties>
+    <Item>
+      <Key>
+        <string>RepositoryPath</string>
+      </Key>
+      <Value>
+        <string>C:\Users\Luis Lopez Lara\Documents\Unified Functional Testing\APITestSGF_Prod\EmbeddedResources</string>
+      </Value>
+    </Item>
+    <Item>
+      <Key>
+        <string>ResourceOrigin</string>
+      </Key>
+      <Value>
+        <string>C:\Users\Luis Lopez Lara\Documents\Unified Functional Testing\APITestSGF_Prod\EmbeddedResources\SGF_1st_SOM</string>
+      </Value>
+    </Item>
+    <Item>
+      <Key>
+        <string>PrototypeDbVersion</string>
+      </Key>
+      <Value>
+        <string>12.53.2810.0</string>
+      </Value>
+    </Item>
+  </Properties>
+</ResourceManifest>

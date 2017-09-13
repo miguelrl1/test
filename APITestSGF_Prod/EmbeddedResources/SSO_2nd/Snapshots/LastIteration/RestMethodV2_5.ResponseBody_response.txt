@@ -1,0 +1,248 @@
+{
+	"id" : "7354",
+	"lastname" : "Rocha",
+	"firstname" : "Mike",
+	"status" : "ACTIVE",
+	"traceflag" : "true",
+	"locale" : "es_MX",
+	"gender" : "M",
+	"birthdate" : "6/15/1987",
+	"usertitle" : "IDE1014",
+	"usertype" : "consumer",
+	"usersubtype" : "ROLE_SMBADMIN",
+	"updateddate" : 353592426,
+	"lastaccessdate" : 353592426,
+	"isprofilecomplete" : false,
+	"smbid" : "5704",
+	"loginname" : [ "miguel.rochalona@gmail.com" ],
+	"endtimetokenid" : 1506119823,
+	"address" : [ {
+		"addressid" : "Casa",
+		"streetaddress" : "Zurich",
+		"externalnumber" : "145",
+		"internalnumber" : "145",
+		"neighborhood" : "Anzures",
+		"locality" : "Miguel Hidalgo",
+		"city" : "Miguel Hidalgo",
+		"state" : "Ciudad de México",
+		"country" : "MX",
+		"zipcode" : "11590",
+		"addresstype" : "envio",
+		"addressisprimary" : true
+	}, {
+		"addressid" : "Casa 2",
+		"streetaddress" : "fffff",
+		"externalnumber" : "145",
+		"neighborhood" : "fffffff",
+		"locality" : "Mexico",
+		"city" : "cccccc",
+		"state" : "ddddd",
+		"country" : "Mexico",
+		"zipcode" : "11590",
+		"addresstype" : "envio",
+		"addressisprimary" : true
+	}, {
+		"addressid" : "Rfc 1",
+		"streetaddress" : "Zurich",
+		"externalnumber" : "145",
+		"neighborhood" : "Anzures",
+		"locality" : "Miguel Hidalgo",
+		"city" : "Miguel Hidalgo",
+		"state" : "Ciudad de México",
+		"country" : "MX",
+		"zipcode" : "11590",
+		"addresstype" : "facturacion",
+		"addressisprimary" : false
+	}, {
+		"addressid" : "Rfc 2",
+		"streetaddress" : "Zurich",
+		"externalnumber" : "145",
+		"neighborhood" : "Anzures",
+		"locality" : "Miguel Hidalgo",
+		"city" : "Miguel Hidalgo",
+		"state" : "Ciudad de México",
+		"country" : "MX",
+		"zipcode" : "11590",
+		"addresstype" : "facturacion",
+		"addressisprimary" : false
+	} ],
+	"phone" : [ {
+		"phonenumber" : "5540646148",
+		"phonenumbertype" : "mobile",
+		"phonenumberisprimary" : true,
+		"phonenumberverified" : true
+	}, {
+		"phonenumber" : "5545256199",
+		"phonenumbertype" : "home",
+		"phonenumberisprimary" : false,
+		"phonenumberverified" : true
+	} ],
+	"email" : [ {
+		"email" : "miguel.rochalona@gmail.com",
+		"emailtype" : "PRIVATE",
+		"emailisprimary" : true,
+		"emailverified" : true
+	}, {
+		"email" : "test@claro360.com",
+		"emailtype" : "ALTERNATIVE",
+		"emailisprimary" : false,
+		"emailverified" : false
+	} ],
+	"invoicing" : [ {
+		"invoicingid" : "Rfc 1",
+		"taxid" : "ROLM870514CDF",
+		"businessname" : "ROLM870514CDXX",
+		"relatedaddressid" : "Rfc 1",
+		"taxidtype" : "0"
+	}, {
+		"invoicingid" : "Rfc 2",
+		"taxid" : "ROLM870514CDF",
+		"businessname" : "ROLM870514CDF",
+		"relatedaddressid" : "Rfc 2",
+		"taxidtype" : "0"
+	} ],
+	"socialnetworks" : [ {
+		"socialnetworkid" : "face1",
+		"socialnetworktype" : "facebook"
+	}, {
+		"socialnetworkid" : "link2",
+		"socialnetworktype" : "linkedin"
+	}, {
+		"socialnetworkid" : "twitte2",
+		"socialnetworktype" : "twitter"
+	} ],
+	"securityanswers" : [ {
+		"securityanswer" : "Test",
+		"securityquestionid" : "IDE1004"
+	} ],
+	"paymentmethod" : [ {
+		"billingidentifier" : "card360",
+		"billingtype" : "card360",
+		"account" : "5063790000089820",
+		"referenceid" : "8982"
+	}, {
+		"billingidentifier" : "credit!visa!Banco_no_identificado!4448",
+		"billingtype" : "card",
+		"account" : "kxarz0vqrpthpvlucv9d",
+		"referenceid" : "XPWj7h2Jfpsn1woidxIBwK3rmNR6JcKl"
+	}, {
+		"billingidentifier" : "debit!visa!visa!1111!tarjeta1?1503592144495",
+		"billingtype" : "card",
+		"account" : "kasqkjdssyn4liuxlrtm",
+		"referenceid" : "HVye3PdR1Ro990r0a2JLek1KkpLdgTZE"
+	}, {
+		"billingidentifier" : "paypal3",
+		"billingtype" : "paypal",
+		"account" : "xxxxxxxxxxxxxxxxxxx",
+		"referenceid" : "paypal3"
+	}, {
+		"billingidentifier" : "unknown!visa!Banco_no_identificado!4242",
+		"billingtype" : "card",
+		"account" : "krb9drllvvnyo54qy9cc",
+		"referenceid" : "CWpuEK8hruGLwS7caELL0Ic1PUXCv44A"
+	} ],
+	"termsandconditions" : [ {
+		"tcid" : "1",
+		"itemrelatedid" : "-1",
+		"acceptancedate" : "01/01/1999",
+		"acceptancestatus" : "true"
+	}, {
+		"tcid" : "2",
+		"itemrelatedid" : "-2",
+		"acceptancedate" : "01/01/1999",
+		"acceptancestatus" : "true"
+	}, {
+		"tcid" : "3",
+		"itemrelatedid" : "-3",
+		"acceptancedate" : "01/01/1999",
+		"acceptancestatus" : "true"
+	}, {
+		"tcid" : "5",
+		"itemrelatedid" : "0",
+		"acceptancedate" : "06/11/2017",
+		"acceptancestatus" : "true"
+	}, {
+		"tcid" : "6",
+		"itemrelatedid" : "0",
+		"acceptancedate" : "05/18/2017",
+		"acceptancestatus" : "true"
+	}, {
+		"tcid" : "7",
+		"itemrelatedid" : "0",
+		"acceptancedate" : "05/18/2017",
+		"acceptancestatus" : "true"
+	} ],
+	"subscriptions" : [ {
+		"serviceid" : "82,45,203",
+		"subscriptionstatus" : "ACT",
+		"subscriptionid" : "7354!1424!4264"
+	}, {
+		"serviceid" : "84,81,123",
+		"subscriptionstatus" : "ACT",
+		"subscriptionid" : "7354!1425!4265"
+	}, {
+		"serviceid" : "63,46,72",
+		"subscriptionstatus" : "ACT",
+		"subscriptionid" : "7354!1426!4266"
+	}, {
+		"serviceid" : "63,46,72",
+		"subscriptionstatus" : "ACT",
+		"subscriptionid" : "7354!1427!4267"
+	}, {
+		"serviceid" : "63,46,72",
+		"subscriptionstatus" : "ACT",
+		"subscriptionid" : "7354!1428!4268"
+	}, {
+		"serviceid" : "83,48,74",
+		"subscriptionstatus" : "ACT",
+		"subscriptionid" : "7354!1429!4269"
+	}, {
+		"serviceid" : "82,45,203",
+		"subscriptionstatus" : "ACT",
+		"subscriptionid" : "7354!1430!4270"
+	}, {
+		"serviceid" : "83,48,74",
+		"subscriptionstatus" : "ACT",
+		"subscriptionid" : "7354!1431!4271"
+	}, {
+		"serviceid" : "63,46,72",
+		"subscriptionstatus" : "CANCEL",
+		"subscriptionid" : "7354!1442!4282"
+	}, {
+		"serviceid" : "63,46,72",
+		"subscriptionstatus" : "ACT",
+		"subscriptionid" : "7354!1443!4283"
+	}, {
+		"serviceid" : "63,46,72",
+		"subscriptionstatus" : "ACT",
+		"subscriptionid" : "7354!1444!4284"
+	}, {
+		"serviceid" : "84,81,123",
+		"subscriptionstatus" : "ACT",
+		"subscriptionid" : "7354!1445!4285"
+	}, {
+		"serviceid" : "82,45,203",
+		"subscriptionstatus" : "ACT",
+		"subscriptionid" : "7354!1446!4286"
+	}, {
+		"serviceid" : "83,48,75",
+		"subscriptionstatus" : "ACT",
+		"subscriptionid" : "7354!1458!4298"
+	}, {
+		"serviceid" : "82,45,70",
+		"subscriptionstatus" : "ACT",
+		"subscriptionid" : "7354!1459!4299"
+	}, {
+		"serviceid" : "82,45,71",
+		"subscriptionstatus" : "ACT",
+		"subscriptionid" : "7354!1460!4300"
+	}, {
+		"serviceid" : "84,81,122",
+		"subscriptionstatus" : "ACT",
+		"subscriptionid" : "7354!1481!4321"
+	}, {
+		"serviceid" : "63,46,72",
+		"subscriptionstatus" : "ACT",
+		"subscriptionid" : "7354!1482!4322"
+	} ]
+}
