@@ -1,0 +1,7 @@
+{
+	"access_token" : "1ucjrt6c8udrda67c2gm8vu5eh1p94q3343d8pgnfmd1l2n4ar6u",
+	"token_type" : "bearer",
+	"id_token" : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uX2lkIjoiNjVzNmhmaWIxamNzNG5kaGFjZnRxc2puM2oifQ.tGsz0my042ypDYD69XfchcuSWguJ9yodotSLi-HYdW0",
+	"expires_in" : "1507144090",
+	"refresh_token" : "15mm34jit694sph3su20dakt9i2jbkcrruelpkg861bhil2ghnig"
+}

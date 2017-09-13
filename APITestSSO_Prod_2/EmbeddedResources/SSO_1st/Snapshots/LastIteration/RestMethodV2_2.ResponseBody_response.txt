@@ -1,0 +1,6 @@
+{
+	"access_token" : "9d3fliti84dq88uh769j3gpherqsj832m0qi40b7mlo3a6vhe69",
+	"token_type" : "bearer",
+	"expires_in" : "1506109321",
+	"refresh_token" : "10h52cj3lo775q3v5bdnn8u9e4t5e2e4e927s81ui6n7vfhpmd9v"
+}
