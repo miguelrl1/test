@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ResourceManifest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>20a0263b-aca6-46ce-9f28-b1eaff27bebc</ID>
+  <Name>SSO_1st</Name>
+  <Type>REST</Type>
+  <Version>8</Version>
+  <CreationDate>2017-08-30T17:25:13.087-05:00</CreationDate>
+  <UpdateDate>2017-09-01T20:30:52.9669104-05:00</UpdateDate>
+  <LoaderID>SignatureResourceHandler</LoaderID>
+  <MetaDataSignatureFile>a83f67c6-c716-447f-be66-7bb9e8e0a3fa.xml</MetaDataSignatureFile>
+  <TestResourceId>a83f67c6-c716-447f-be66-7bb9e8e0a3fa</TestResourceId>
+  <RepositoryType>TestRepository</RepositoryType>
+  <SignatureCodonId>HP.ST.RestDesignTime.RestServicesV2</SignatureCodonId>
+  <SignatureAddinVersion>12.53.2810.0</SignatureAddinVersion>
+  <Properties>
+    <Item>
+      <Key>
+        <string>RepositoryPath</string>
+      </Key>
+      <Value>
+        <string>C:\Users\Luis Lopez Lara\Documents\Unified Functional Testing\APITestSSO_Prod\EmbeddedResources</string>
+      </Value>
+    </Item>
+    <Item>
+      <Key>
+        <string>ResourceOrigin</string>
+      </Key>
+      <Value>
+        <string>C:\Users\Luis Lopez Lara\Documents\Unified Functional Testing\APITestSSO_Prod\EmbeddedResources\SSO_1st</string>
+      </Value>
+    </Item>
+    <Item>
+      <Key>
+        <string>PrototypeDbVersion</string>
+      </Key>
+      <Value>
+        <string>12.53.2810.0</string>
+      </Value>
+    </Item>
+  </Properties>
+</ResourceManifest>

@@ -1,0 +1,97 @@
+{
+	"id" : "8818",
+	"lastname" : "perez perez",
+	"firstname" : "juan",
+	"status" : "ENABLED",
+	"locale" : "es_MX",
+	"gender" : "M",
+	"birthdate" : "01/11/1968",
+	"usertitle" : "IDE1014",
+	"usertype" : "consumer",
+	"usersubtype" : "ROLE_SMBADMIN",
+	"updateddate" : 563870202,
+	"lastaccessdate" : 563870202,
+	"isprofilecomplete" : false,
+	"smbid" : "88515",
+	"loginname" : [ "l1080178@mvrht.net" ],
+	"endtimetokenid" : 1506109266,
+	"address" : [ {
+		"addressid" : "default",
+		"streetaddress" : "calle",
+		"externalnumber" : "1",
+		"internalnumber" : "1",
+		"neighborhood" : "col",
+		"locality" : "cd",
+		"city" : "cd",
+		"state" : "edo",
+		"country" : "MX",
+		"zipcode" : "00000",
+		"addresstype" : "envio",
+		"addressisprimary" : true
+	} ],
+	"phone" : [ {
+		"phonenumber" : "55",
+		"phonenumbertype" : "PRIVATE",
+		"phonenumberisprimary" : true,
+		"phonenumberverified" : true
+	} ],
+	"email" : [ {
+		"email" : "l1080178@mvrht.net",
+		"emailtype" : "PRIVATE",
+		"emailisprimary" : true,
+		"emailverified" : true
+	} ],
+	"securityanswers" : [ {
+		"securityanswer" : "answer",
+		"securityquestionid" : "IDE1001"
+	} ],
+	"paymentmethod" : [ {
+		"billingidentifier" : "debit!visa!visa!1111!juan?1503802424837",
+		"billingtype" : "card",
+		"account" : "ktriwaxddw3s1les2wum",
+		"referenceid" : "ZVMDSTbPAiTaitcDLuLknOjFansf90iy"
+	} ],
+	"termsandconditions" : [ {
+		"tcid" : "1",
+		"itemrelatedid" : "-1",
+		"acceptancedate" : "26/08/2017",
+		"acceptancestatus" : "true"
+	}, {
+		"tcid" : "2",
+		"itemrelatedid" : "-2",
+		"acceptancedate" : "26/08/2017",
+		"acceptancestatus" : "true"
+	}, {
+		"tcid" : "3",
+		"itemrelatedid" : "-3",
+		"acceptancedate" : "26/08/2017",
+		"acceptancestatus" : "true"
+	} ],
+	"subscriptions" : [ {
+		"serviceid" : "63,123,183",
+		"subscriptionstatus" : "PACT",
+		"subscriptionid" : "8818!3019!5838",
+		"eancode" : "NULL",
+		"activationdate" : "564519864",
+		"campaignid" : "TJ00",
+		"transactionid" : "cacbe210-964b-42a1-9038-aa71c3e3811d"
+	}, {
+		"serviceid" : "82,44,68",
+		"subscriptionstatus" : "PROMO",
+		"subscriptionid" : "PR1",
+		"eancode" : "NULL",
+		"campaignid" : "TJ00"
+	}, {
+		"serviceid" : "83,62,84",
+		"subscriptionstatus" : "PROMO",
+		"subscriptionid" : "PR2",
+		"eancode" : "NULL",
+		"campaignid" : "TJ00"
+	}, {
+		"serviceid" : "84,81,121",
+		"subscriptionstatus" : "PROMO",
+		"subscriptionid" : "PR3",
+		"eancode" : "NULL",
+		"campaignid" : "TJ00"
+	} ]
+}

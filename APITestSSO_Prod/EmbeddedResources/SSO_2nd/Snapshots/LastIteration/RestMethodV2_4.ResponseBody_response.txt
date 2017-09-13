@@ -1,0 +1,7 @@
+{
+	"access_token" : "dlc935kdpj8hpn0upd4cer00t18i17v6vmukp7535i4de6t3cd7",
+	"token_type" : "bearer",
+	"id_token" : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uX2lkIjoiNnBtdWhiMHAwZ2xtcWs2MnAyZ3Q3MzRnbmYifQ.wssJXJaiH9Yjzsx8_xgZRg0vN2jfjKQnJhZM958WEcg",
+	"expires_in" : "1506114108",
+	"refresh_token" : "1lq337vqgbpaitn4ald1o2fnhnbmt1861ftav5d90l65khcavgtk"
+}
